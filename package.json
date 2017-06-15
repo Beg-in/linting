@@ -13,7 +13,6 @@
     "docs": "jsdoc2md --template docs.hbs --files *.js > README.md"
   },
   "repository": "Beg-in/begin-linting",
-  "private": true,
   "author": {
     "name": "Beg.in",
     "email": "info@beg.in",
